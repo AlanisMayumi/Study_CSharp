@@ -20,7 +20,7 @@
 </code>
 </pre>
 <br/>
-<p>This method will return: </p>
+<p>This method returns: </p>
 <pre>
 <code>
  List of strings:
