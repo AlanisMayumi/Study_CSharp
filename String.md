@@ -23,8 +23,8 @@
 <p>This method will return: </p>
 <pre>
 <code>
- <p>List of strings:</p>
- <p>01 - Naruto</p>
- <p>02 - Kakashi</p>
+ List of strings:
+ 01 - Naruto
+ 02 - Kakashi
 </code>
 </pre>
