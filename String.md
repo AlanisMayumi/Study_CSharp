@@ -21,8 +21,8 @@
 </pre>
 <br/>
 <p>This method will return: </p>
-<div>
+<code>
  <p>List of strings:</p>
  <p>01 - Naruto</p>
  <p>02 - Kakashi</p>
-</div>
+</code>
