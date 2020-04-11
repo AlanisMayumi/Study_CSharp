@@ -15,7 +15,6 @@
     sb.Append(" - Naruto");
     sb.AppendLine("02");
     sb.Append(" - Kakashi");
-    
     return sb.ToString();
  }
 </code>
@@ -23,7 +22,7 @@
 <br/>
 <p>This method will return: </p>
 <div>
- <p>List od strings:</p>
+ <p>List of strings:</p>
  <p>01 - Naruto</p>
  <p>02 - Kakashi</p>
 </div>
