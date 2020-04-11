@@ -5,7 +5,8 @@
 <br/>
 <li>Using "System.Text" import.</li>
 <li>You can print a text.</li>
-<div>
+<pre>
+<code>
   public override string ToString()
   {
     StringBuilder sb = new StringBuilder();
@@ -17,7 +18,8 @@
     
     return sb.ToString();
  }
-</div>
+</code>
+</pre>
 <br/>
 <p>This method will return: </p>
 <div>
