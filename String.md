@@ -2,7 +2,8 @@
 <br/>
 
 <h3>StringBuilder</h3>
-<br/>
+<h3>Concat</h3>
+<!-- <br/>
 <li>Using "System.Text" import.</li>
 <li>You can print a text.</li>
 <pre>
@@ -27,4 +28,4 @@
  01 - Naruto
  02 - Kakashi
 </code>
-</pre>
+</pre> -->
