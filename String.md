@@ -3,6 +3,7 @@
 
 <h3>StringBuilder</h3>
 <h3>Concat</h3>
+<h3>ToUpper</h3>
 <!-- <br/>
 <li>Using "System.Text" import.</li>
 <li>You can print a text.</li>
